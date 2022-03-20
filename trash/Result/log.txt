@@ -1,0 +1,6 @@
+Number of Process running:  20
+Crossing region energy 10535.9
+ALpha:  3.48129
+Shift Hamiltonian by energy of system  13589
+ Begin Propagation in Molecule Phase space 
+The total run time for parallel computing is 0.289426 minutes  for simulation time  1

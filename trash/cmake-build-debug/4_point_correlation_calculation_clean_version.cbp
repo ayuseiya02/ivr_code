@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="4_point_correlation_calculation_clean_version"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Nightly">
+				<Option working_dir="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 Nightly"/>
+					<CompileFile command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Continuous">
+				<Option working_dir="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 Continuous"/>
+					<CompileFile command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_point_correlation_calculation_clean_version">
+				<Option output="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/4_point_correlation_calculation_clean_version" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/MPICode"/>
+					<Add directory="/opt/intel/compilers_and_libraries_2020.4.304/linux/mkl/include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_point_correlation_calculation_clean_version"/>
+					<CompileFile command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_point_correlation_calculation_clean_version/fast">
+				<Option output="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/4_point_correlation_calculation_clean_version" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/MPICode"/>
+					<Add directory="/opt/intel/compilers_and_libraries_2020.4.304/linux/mkl/include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_point_correlation_calculation_clean_version/fast"/>
+					<CompileFile command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Experimental">
+				<Option working_dir="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 Experimental"/>
+					<CompileFile command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j24 -f &quot;/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/Detector.cpp">
+			<Option target="4_point_correlation_calculation_clean_version"/>
+		</Unit>
+		<Unit filename="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/Eigenvalue_spectrum.cpp">
+			<Option target="4_point_correlation_calculation_clean_version"/>
+		</Unit>
+		<Unit filename="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/FullSystem.cpp">
+			<Option target="4_point_correlation_calculation_clean_version"/>
+		</Unit>
+		<Unit filename="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/MPICode/CommunicationFunctionMPI.cpp">
+			<Option target="4_point_correlation_calculation_clean_version"/>
+		</Unit>
+		<Unit filename="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/MPICode/DetectorEvolveMPI.cpp">
+			<Option target="4_point_correlation_calculation_clean_version"/>
+		</Unit>
+		<Unit filename="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/MPICode/ReadMPI.cpp">
+			<Option target="4_point_correlation_calculation_clean_version"/>
+		</Unit>
+		<Unit filename="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/MPICode/System_ReadMPI.cpp">
+			<Option target="4_point_correlation_calculation_clean_version"/>
+		</Unit>
+		<Unit filename="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/MPICode/ComputeDetectorEnergyWindowMPI.cpp">
+			<Option target="4_point_correlation_calculation_clean_version"/>
+		</Unit>
+		<Unit filename="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/MPICode/ConstructDetectorMPI.cpp">
+			<Option target="4_point_correlation_calculation_clean_version"/>
+		</Unit>
+		<Unit filename="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/MPICode/save_load_detector_MPI.cpp">
+			<Option target="4_point_correlation_calculation_clean_version"/>
+		</Unit>
+		<Unit filename="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/System.cpp">
+			<Option target="4_point_correlation_calculation_clean_version"/>
+		</Unit>
+		<Unit filename="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/AuxiliaryFunction.cppp">
+			<Option target="4_point_correlation_calculation_clean_version"/>
+		</Unit>
+		<Unit filename="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/main.cpp">
+			<Option target="4_point_correlation_calculation_clean_version"/>
+		</Unit>
+		<Unit filename="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/quotient_state.h">
+			<Option target="4_point_correlation_calculation_clean_version"/>
+		</Unit>
+		<Unit filename="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/util.h">
+			<Option target="4_point_correlation_calculation_clean_version"/>
+		</Unit>
+		<Unit filename="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/vanvlk_construct_detector_offdiag.cpp">
+			<Option target="4_point_correlation_calculation_clean_version"/>
+		</Unit>
+		<Unit filename="/home/phyzch/CLionProjects/4_point_correlation_calculation_clean_version/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,17 @@
+1 Energy_window    2 detector_only  3 Detector_Continue_Simulation  
+
+1 Rmax  2 V_intra  3 a_intra   4 detector_energy_window  5 coupling_to_coordinate0 spin_down    6 coupling_to_coordinate1_spin_up 7 electronic_state_coupling_strength (t in Logan’s note)  
+
+delt  tstart  tmax  tprint
+
+tlnum  tle[i]   xtl  ytl
+
+maxdis   cutoff   kelvin
+
+
+for each side: 
+nmodes[i]  proptime[i]
+# first mode should be electronic state’s energy and nmax must set to 1.
+mfrequency  nmax  modtype   premodcoup   modcoup
+
+initial quantum number state.
