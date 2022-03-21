@@ -12,9 +12,8 @@ void full_system::read_input_with_MPI() {
     double coupling_strength_to_mode_spin_up;
     double coupling_strength_to_mode_spin_down;
 
-    input.open(
-        path +
-        "/InputFiles/InputFile1.txt"); // information recorded in input.txt
+    input.open(path +
+               "/input/InFile1.txt"); // information recorded in input.txt
     if (!input.is_open()) {
       cout << "THE INFILE FAILS TO OPEN!" << endl;
       log << "THE INFILE FAILS TO OPEN!" << endl;
@@ -55,12 +54,9 @@ void full_system::read_input_with_MPI() {
     log << "Number of Process running:  " << num_proc << endl;
     if (!Detector_Continue_Simulation) {
       // start from beginning.
-      output.open(/ Users / ayuseiya / research / ivr / code / OutputFiles /
-                  OutputFile1.txt);
+      output.open(path + "/output/OutFile1.txt");
     } else {
-      output.open(/ Users / ayuseiya / research / ivr / code / OutputFiles /
-                      OutputFile1.txt,
-                  ios::app);
+      output.open(path + "/output/OutFile1.txt", ios::app);
     }
     if (!output.is_open()) {
       cout << "OUTPUT FILE FAILS TO OPEN." << endl;

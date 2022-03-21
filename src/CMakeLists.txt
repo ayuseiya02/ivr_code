@@ -16,7 +16,7 @@ add_executable(LW_code_clean_version main.cpp Detector.cpp FullSystem.cpp System
         ./MPICode/ReadMPI.cpp
         ./MPICode/ConstructDetectorMPI.cpp ./MPICode/CommunicationFunctionMPI.cpp
         ./MPICode/DetectorEvolveMPI.cpp
-        ./MPICode/System_ReadMPI.cpp ./MPICode/ComputeDetectorEnergyWindowMPI.cpp
+        ./MPICode/SystemReadMPI.cpp ./MPICode/ComputeDetectorEnergyWindowMPI.cpp
         )
 
 target_link_libraries(ivr_code stdc++fs mpi)
